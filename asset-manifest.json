@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/HealthBioApp/static/css/main.10cd4cef.chunk.css",
+    "main.js": "/HealthBioApp/static/js/main.ce9bc9c3.chunk.js",
+    "main.js.map": "/HealthBioApp/static/js/main.ce9bc9c3.chunk.js.map",
+    "runtime-main.js": "/HealthBioApp/static/js/runtime-main.2716c350.js",
+    "runtime-main.js.map": "/HealthBioApp/static/js/runtime-main.2716c350.js.map",
+    "static/js/2.903b2571.chunk.js": "/HealthBioApp/static/js/2.903b2571.chunk.js",
+    "static/js/2.903b2571.chunk.js.map": "/HealthBioApp/static/js/2.903b2571.chunk.js.map",
+    "static/js/3.f07350cb.chunk.js": "/HealthBioApp/static/js/3.f07350cb.chunk.js",
+    "static/js/3.f07350cb.chunk.js.map": "/HealthBioApp/static/js/3.f07350cb.chunk.js.map",
+    "index.html": "/HealthBioApp/index.html",
+    "static/css/main.10cd4cef.chunk.css.map": "/HealthBioApp/static/css/main.10cd4cef.chunk.css.map",
+    "static/js/2.903b2571.chunk.js.LICENSE.txt": "/HealthBioApp/static/js/2.903b2571.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/HealthBioApp/static/media/defaultBcg.jpg.82654341.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2716c350.js",
+    "static/js/2.903b2571.chunk.js",
+    "static/css/main.10cd4cef.chunk.css",
+    "static/js/main.ce9bc9c3.chunk.js"
+  ]
+}
